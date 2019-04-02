@@ -1,4 +1,4 @@
-# BMI 826/CS 838: Learning-Based-Methods-in-Computer-Vision 
+#BMI 826/CS 838: Learning-Based-Methods-in-Computer-Vision 
 
 
 Assignment Turn-ins and related material for UW Madison Graduate course.
@@ -13,3 +13,4 @@ Contents:
 
 
 Instructor: Prof. Yin Li
+University of Wisconsin Madison
