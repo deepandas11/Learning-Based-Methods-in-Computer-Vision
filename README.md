@@ -11,7 +11,7 @@ Contents:
 4. [Slides](https://github.com/deepandas11/CS838/tree/master/Slides) : All lecture slides
 5. [Demos](https://github.com/deepandas11/CS838/tree/master/Demos) : PIL/OpenCV Demonstrative code
 6. [Project](https://github.com/users/deepandas11/projects/1) : Course Project
-
+Project Name: Unsupervised Co-localization of text and image modalities. 
 
 Instructor: Prof. Yin Li
 University of Wisconsin Madison
